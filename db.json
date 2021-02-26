@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "name": "bhavana",
+      "fathername": "suresh",
+      "email": "narravula.bhavya@hcl.com",
+      "password": "Bhavya@789",
+      "phone": "89705645564",
+      "adharano": "789056748709",
+      "pan": "657YT590F",
+      "state": "Telengana",
+      "address": "indira nagar,gudur,nellore,Ap",
+      "accountno": "67890564367899",
+      "ifscno": "SBI67890",
+      "bankLocation": "mv nagar",
+      "ifisno": "s",
+      "ctype": "SAD1000996745345",
+      "stype": "ADC6700005678945",
+      "id": 1,
+      "currentbalance": 2234,
+      "balance": "2000"
+    },
+    {
+      "name": "bhavya",
+      "fathername": "suresh",
+      "email": "narravula.bhavya@gmail.com",
+      "password": "Bhavya@345",
+      "phone": "6304727442",
+      "adharano": "976513517773",
+      "pan": "AS45RT67",
+      "state": "Odisaa",
+      "address": "indira nagar,gudur,nellore,Ap",
+      "accountno": "87905600004532",
+      "ifscno": "SBI67887",
+      "bankLocation": "mv nagar",
+      "ctype": "BSI1000996745390",
+      "stype": "CDA6700005689054",
+      "id": 2,
+      "currentbalance": 5000,
+      "balance": 7000
+    },
+    {
+      "name": "Suresh",
+      "fathername": "rama",
+      "email": "narravula.suresh@gmail.com",
+      "password": "Suresh@12",
+      "phone": "897654367",
+      "adharano": "78654356278",
+      "pan": "AS45RT67",
+      "state": "Up",
+      "address": "indira nagar,gudur,nellore,Ap",
+      "accountno": "678905643667",
+      "ifscno": "SBI67786",
+      "bankLocation": "mv nagar",
+      "ctype": "ISB1000996746743",
+      "stype": "DCA6700008976545",
+      "id": 3,
+      "currentbalance": "1000",
+      "balance": "2000"
+    }
+  ],
+  "admin": [
+    {
+      "name": "Bhavya",
+      "fathername": "Suresh",
+      "email": "admin.bank@abc.com",
+      "password": "Admin@123",
+      "phone": "9490949034",
+      "state": "Ap",
+      "pincode": "524101",
+      "adharano": "976513517773"
+    }
+  ]
+}
